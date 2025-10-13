@@ -1,1 +1,2 @@
-function criaCartao
+function criaCartao(categoria, pergunta, resposta) {}
+
