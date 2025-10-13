@@ -1,7 +1,7 @@
 criaCartao ( 
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Geral',
+    'Pessoa mais gorda do mundo',
+    'Benicio',
 )
 
 criaCartao ( 
@@ -11,7 +11,7 @@ criaCartao (
 )
 
 criaCartao ( 
-    'Categoria',
+    '',
     'Pergunta',
     'Resposta',
 )
