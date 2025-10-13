@@ -5,9 +5,9 @@ criaCartao (
 )
 
 criaCartao ( 
-    'Categoria',
-    'Pergunta',
-    'Resposta',
+    'Carro',
+    'Qual primeiro carro inventado',
+    'Benz Patent-Motorwagen',
 )
 
 criaCartao ( 
